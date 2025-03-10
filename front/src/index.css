@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme{
+    --color-blue-elsa: #1c5ba2;
+}
+
+/*
+2068b8
+*/

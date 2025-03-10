@@ -5,7 +5,7 @@ import backgroundImage from "../../assets/images/gelo_bar.png"
 export default function Header() {
     return (
         <>
-            <header className="flex justify-center bg-sky-800">
+            <header className="flex justify-center bg-blue-elsa">
                 <div className="w-[100%]"> 
                     <div className="flex justify-center ">
                         <div className="w-[70%] pt-10 pb-10">
