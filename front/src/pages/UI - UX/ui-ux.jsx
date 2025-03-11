@@ -9,13 +9,13 @@ import '../../index.css'
 export default function UI_UX() {
     return (
         <>
-            <div>
+            <div className='bg-blue-elsa'>
 
                 <Header/>
 
                 <div className='flex justify-center mt-10'>
                     <div className='w-[70%]'>
-                        <h1 className='text-5xl mb-5'>UI UX</h1>
+                        <h1 className='text-5xl mb-5 font-bold text-sky-900'>UI UX</h1>
                         <p className='text-xl'>Front-end is an area of IT responsible for creating interfaces that connect people with computer algorithms, 
                             aiming to improve the interaction between users and technology.</p>
 

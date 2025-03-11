@@ -8,16 +8,16 @@ import elsa from "../../assets/images/elsa.jpg"
 
 import '../../index.css'
 
-export default function JavaScript() {
+export default function Basic_comands() {
     return (
         <>
-            <div>
+            <div className='bg-blue-elsa'>
 
                 <Header/>
 
                 <div className='flex justify-center mt-10'>
                     <div className='w-[70%]'>
-                        <h1 className='text-5xl mb-5'>JavaScript</h1>
+                        <h1 className='text-5xl mb-5 font-bold text-sky-900'>JavaScript</h1>
                         <p className='text-xl'>Front-end is an area of IT responsible for creating interfaces that connect people with computer algorithms, aiming to improve the interaction between users and technology.</p>
 
                         <div className='mt-15 grid gap-10 grid-cols-4'>

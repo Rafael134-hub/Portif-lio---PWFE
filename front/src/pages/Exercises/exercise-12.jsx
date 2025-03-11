@@ -34,13 +34,13 @@ export default function Exercise_12() {
         
     return (
         <>
-            <div>
+            <div className='bg-blue-elsa'>
 
                 <Header/>
 
                 <div className='flex justify-center mt-10'>
                     <div className='w-[70%]'>
-                        <h1 className='text-5xl mb-5'>Example 12!</h1>
+                        <h1 className='text-5xl mb-5 font-bold text-sky-900'>Example 12!</h1>
                         
                         <section>
                             <div>
@@ -62,12 +62,8 @@ export default function Exercise_12() {
 
                     </div>
                 </div>
-
-
-          
-                
+  
                 <Footer/>
-
             </div>
             
         </>
